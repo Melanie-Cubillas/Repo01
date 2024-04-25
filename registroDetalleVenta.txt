@@ -1,0 +1,48 @@
+1
+2
+159.98
+1
+El Señor de los Anillos
+79.99
+1
+3
+167.97
+2
+Harry Potter y la piedra filosofal
+55.99
+2
+1
+21.0
+8
+Cantidad de Movimiento
+21.0
+2
+2
+98.0
+4
+Harry Potter y el prisionero de Azkaban
+49.0
+3
+8
+441.6
+5
+Harry Potter y el cáliz de fuego
+55.2
+3
+2
+36.0
+9
+Oscilaciones Mecánicas
+18.0
+4
+2
+155.98
+1
+El Señor de los Anillos
+77.99
+4
+2
+98.0
+4
+Harry Potter y el prisionero de Azkaban
+49.0
